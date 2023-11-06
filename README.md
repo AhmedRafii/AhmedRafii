@@ -1,5 +1,3 @@
-[![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/4778911335448576/image/download/6289910425190400)](https://desperatehub.com)
-
 <h1 align="center">Hi 👋, I'm Ahmed Rafi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
