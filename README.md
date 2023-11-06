@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrafii&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrafii" /> </p>
 
-- 🔭 I’m currently working on **Marketing**
+- 🔭 I’m currently working on **Digital Marketing**
 
 - 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP, TAILWIND CSS,& JAVA SCRIPT.**
 
-- 👯 I’m looking to collaborate on **Programming**
+- 👯 I’m looking to collaborate with **Web Development and Marketing Project**
 
-- 🤝 I’m looking for help with **Programming**
+- 🤝 I’m looking for help with **AI and ML**
 
 - 💬 Ask me about **Marketing and Development**
 
